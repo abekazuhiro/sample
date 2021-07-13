@@ -15,4 +15,4 @@ jobs:
           echo "Hello World!"
           python -V
           gcc --version
-          python test.py
+          pwd
