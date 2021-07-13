@@ -16,3 +16,4 @@ jobs:
           python -V
           gcc --version
           pwd
+          ls
