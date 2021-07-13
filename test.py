@@ -2,4 +2,4 @@
 
 import os
 
-print("Hello Python")
+print("current path: "+ os.getcwd())
