@@ -13,7 +13,8 @@ jobs:
       - name: execute echo command
         run: |
           echo "Hello World!"
-          python -V
-          gcc --version
           pwd
           ls
+      - name: display version
+          python -V
+          gcc --version
