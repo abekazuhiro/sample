@@ -16,5 +16,6 @@ jobs:
           pwd
           ls
       - name: display version
+        run: |
           python -V
           gcc --version
